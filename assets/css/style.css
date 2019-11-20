@@ -58,7 +58,7 @@ p {
     color: #777777;
 }
 
-/* About me section */
+/* Main Section of Page*/
 section {
     background-color: #ffffff;
     width: 960px;
@@ -67,6 +67,10 @@ section {
     border: solid 1px #dddddd;
     overflow: auto;
     line-height: 1.5em;
+}
+
+#myForm {
+    
 }
 
 img {
