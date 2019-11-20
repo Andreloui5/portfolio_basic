@@ -56,13 +56,17 @@ a {
 
 /* About me section */
 section {
-    background-color: white;
+    background-color: #ffffff;
     width: 960px;
     margin: 30px auto;
     padding: 30px;
-    border: solid 1px #cccccc;
+    border: solid 1px #dddddd;
     overflow: auto;
     line-height: 1.5em;
+}
+
+p {
+    color: #777777;
 }
 
 img {
