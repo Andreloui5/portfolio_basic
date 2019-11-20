@@ -10,7 +10,8 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url("#");
+    background-image: url("../images/concrete_seamless.png");
+    margin: 0;
 }
 
 /* Header */
@@ -38,17 +39,13 @@ h1 {
     color: white;
     margin: 0; 
     float: left;
-    padding: 15px 20px;
+    padding: 16px 20px;
 }
 
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0;
     color: #4aaaa5;
-}
-
-body {
-    margin: 0;
 }
 
 a {
@@ -81,7 +78,7 @@ footer {
     border-top: solid 3px #4aaaa5;
     padding-top: 30px;
     height: 50px;
-    position: sticky;
+    position: absolute;
     bottom: 0;  
     left: 0;
     color: white;
