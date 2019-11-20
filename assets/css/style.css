@@ -1,3 +1,4 @@
+/* Global things */
 * {
     box-sizing: border-box;
 }
@@ -12,6 +13,7 @@ body {
     background-image: url("#");
 }
 
+/* Header */
 header {
     background-color:#ffffff;
     height: 70px;
@@ -24,6 +26,12 @@ header {
     margin: 0 auto;
 }
 
+nav {
+    float: right;
+    padding-top: 25px;
+}
+
+/* Large text */
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
@@ -39,11 +47,6 @@ h2 {
     color: #4aaaa5;
 }
 
-nav {
-    float: right;
-    padding-top: 25px;
-}
-
 body {
     margin: 0;
 }
@@ -54,6 +57,7 @@ a {
     margin-left: 20px   ;
 }
 
+/* About me section */
 section {
     background-color: white;
     width: 960px;
