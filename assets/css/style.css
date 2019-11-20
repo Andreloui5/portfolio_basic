@@ -71,6 +71,7 @@ section {
 img {
     float: left;
     margin: 15px 15px 10px 0px;
+    width: 20%;
 }
 
 footer {
@@ -78,10 +79,11 @@ footer {
     width: 100%;
     background-color: #666666;
     border-top: solid 3px #4aaaa5;
-    padding-top: 20px;
-    height: 70px;
-    position: absolute;
+    padding-top: 30px;
+    height: 50px;
+    position: sticky;
     bottom: 0;  
     left: 0;
     color: white;
+    font-size: 10px;
 }
