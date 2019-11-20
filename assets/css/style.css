@@ -1,4 +1,4 @@
-/* Global things */
+/* Things that affect a large part of the page */
 * {
     box-sizing: border-box;
 }
@@ -32,7 +32,7 @@ nav {
     padding-top: 25px;
 }
 
-/* Large text */
+/* Text Qualities */
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #4aaaa5;
@@ -54,6 +54,10 @@ a {
     margin-left: 20px   ;
 }
 
+p {
+    color: #777777;
+}
+
 /* About me section */
 section {
     background-color: #ffffff;
@@ -63,10 +67,6 @@ section {
     border: solid 1px #dddddd;
     overflow: auto;
     line-height: 1.5em;
-}
-
-p {
-    color: #777777;
 }
 
 img {
