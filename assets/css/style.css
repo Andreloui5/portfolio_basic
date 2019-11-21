@@ -110,6 +110,15 @@ textarea {
 /* Portfolio page photos
 (All photos are freely usable and were downloaded from unsplash.com) */
 
+.imageButton {
+    content: "";
+}
+
+.imageButton > img {
+    width: 275px;
+    float: left;
+    margin: 15px;
+}
 
 /* Footer */
 
