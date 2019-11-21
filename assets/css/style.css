@@ -56,7 +56,8 @@ h2 {
 a {
     text-decoration: none;
     color: #cccccc;
-    margin-left: 20px   ;
+    margin-top: 0;
+    margin-left: 20px;
 }
 
 p {
@@ -115,7 +116,7 @@ footer {
     border-top: solid 8px #4aaaa5;
     padding-top: 20px;
     height: 50px;
-    position: absolute;
+    position: fixed;
     bottom: 0;  
     left: 0;
     color: white;
