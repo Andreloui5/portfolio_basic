@@ -69,15 +69,20 @@ section {
     line-height: 1.5em;
 }
 
-#myForm {
-    
-}
-
 img {
     float: left;
     margin: 15px 15px 10px 0px;
     width: 20%;
 }
+
+/* Form in the contact page */
+
+textarea {
+    width: 100%;
+    height: 200px;
+}
+
+/* Footer */
 
 footer {
     text-align: center;
