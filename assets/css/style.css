@@ -109,42 +109,15 @@ textarea {
 
 /* Portfolio page photos
 (All photos are freely usable and were downloaded from unsplash.com) */
-/* 
-.imageButton {
-    content: "";
-}
-
-.imageButton > img {
-    width: 275px;
-    float: left;
-    margin: 15px;
-    position: relative;
-}
-
-.imageButton > button {
-    z-index: 2;
-    font-size: 15px;
-    color: #ffffff;
-    background-color: #4aaaa5;
-    width: 275px;
-    height: 40px;
-    margin-top: 8px;
-    position: absolute;
-    bottom: 10px;
-    left: 0px;
-} */
-
-/* Second try re:portfolio images */
 
 .imgDiv {
     position: relative;
     width: 30%;
     height: 200px;
-    /* background-color: red; */
+    float: left;
 }
 .portPicture {
     width: 100%;
-    /* float: left; */
     margin: 0;
 }
 
@@ -154,7 +127,7 @@ textarea {
     color: #ffffff;
     background-color: #4aaaa5;
     width: 100%;
-    padding: 10px;
+    padding: 0px;
     /* height: 40px; */
     /* margin-top: 8px; */
     margin: 0;
