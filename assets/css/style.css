@@ -112,9 +112,10 @@ textarea {
 
 .imgDiv {
     position: relative;
-    width: 30%;
+    width: 33.33%;
     height: 200px;
     float: left;
+    margin: 15px;
 }
 .portPicture {
     width: 100%;
