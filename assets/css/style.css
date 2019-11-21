@@ -118,6 +118,20 @@ textarea {
     width: 275px;
     float: left;
     margin: 15px;
+    position: relative;
+}
+
+.imageButton > button {
+    z-index: 2;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 40px;
+    margin-top: 8px;
+    position: absolute;
+    bottom: 10px;
+    left: 0px;
 }
 
 /* Footer */
@@ -134,4 +148,5 @@ footer {
     left: 0;
     color: white;
     font-size: 10px;
+    z-index: 1000;
 }
