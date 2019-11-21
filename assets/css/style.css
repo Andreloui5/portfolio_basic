@@ -136,11 +136,16 @@ textarea {
 
 /* Second try re:portfolio images */
 
-.portPicture {
-    width: 275px;
-    float: left;
-    margin: 15px;
+.imgDiv {
     position: relative;
+    width: 30%;
+    height: 200px;
+    /* background-color: red; */
+}
+.portPicture {
+    width: 100%;
+    /* float: left; */
+    margin: 0;
 }
 
 .portButton {
@@ -148,11 +153,14 @@ textarea {
     font-size: 15px;
     color: #ffffff;
     background-color: #4aaaa5;
-    width: 275px;
-    height: 40px;
-    margin-top: 8px;
+    width: 100%;
+    padding: 10px;
+    /* height: 40px; */
+    /* margin-top: 8px; */
+    margin: 0;
     position: absolute;
-    bottom: 30%;
+    bottom: 50px;
+    left:0;
 }
 
 /* Footer */
