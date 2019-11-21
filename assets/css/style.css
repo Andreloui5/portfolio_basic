@@ -63,6 +63,7 @@ p {
 #aboutMe {
     line-height: 1.5;
 }
+
 section {
     background-color: #ffffff;
     width: 960px;
@@ -80,6 +81,10 @@ img {
 }
 
 /* Contact Page Form */
+
+form > p {
+    margin-bottom: 0;
+}
 
 input {
     width: 100%;
