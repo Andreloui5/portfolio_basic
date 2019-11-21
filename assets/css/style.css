@@ -110,19 +110,23 @@ textarea {
 /* Portfolio page photos
 (All photos are freely usable and were downloaded from unsplash.com) */
 
+.porfolioBox {
+    width: 898px;
+    height: 900px;
+}
 .imgDiv {
     position: relative;
     width: 33.33%;
     height: 200px;
     float: left;
-    margin: 15px;
+    margin: 20px;
 }
 .portPicture {
     width: 100%;
     margin: 0;
 }
 
-.portButton {
+.portOverlay {
     z-index: 2; 
     font-size: 15px;
     text-align: center;
