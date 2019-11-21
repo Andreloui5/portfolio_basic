@@ -60,10 +60,6 @@ p {
 
 /* Main Section of Page*/
 
-#aboutMe {
-    line-height: 1.5;
-}
-
 section {
     background-color: #ffffff;
     width: 960px;
@@ -94,6 +90,14 @@ input {
 textarea {
     width: 100%;
     height: 200px;
+}
+
+#submitButton {
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 90px;
+    height: 40px;
 }
 
 /* Footer */
