@@ -17,3 +17,5 @@ This site features an [About Me Page](https://andreloui5.github.io/portfolio_bas
 In setting up this project, I closely followed the guidelines provided by the [UCF Coding Bootcamp](https://github.com/UCF-Coding-Boot-Camp/UCF-ORL-FSF-FT-11-2019-U-C).
 
 I used [unsplash.com](https://unsplash.com/) for most of the images on the site, with the notable exception of my headshot, which was taken by Cass Russell.
+
+My background image was downloaded from [Subtle Patterns](https://subtlepatterns.com/).
