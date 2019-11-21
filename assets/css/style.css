@@ -14,6 +14,11 @@ body {
     margin: 0;
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+}
+
 /* Header */
 header {
     background-color:#ffffff;
