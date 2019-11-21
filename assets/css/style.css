@@ -110,16 +110,16 @@ textarea {
 /* Portfolio page photos
 (All photos are freely usable and were downloaded from unsplash.com) */
 
-.porfolioBox {
+.portfolioBox {
     width: 898px;
-    height: 900px;
+    height: auto;
 }
 .imgDiv {
     position: relative;
     width: 33.33%;
     height: 200px;
     float: left;
-    margin: 20px;
+    margin: 0 20px;
 }
 .portPicture {
     width: 100%;
