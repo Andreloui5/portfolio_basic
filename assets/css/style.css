@@ -109,7 +109,7 @@ textarea {
 
 /* Portfolio page photos
 (All photos are freely usable and were downloaded from unsplash.com) */
-
+/* 
 .imageButton {
     content: "";
 }
@@ -126,12 +126,33 @@ textarea {
     font-size: 15px;
     color: #ffffff;
     background-color: #4aaaa5;
-    width: 90px;
+    width: 275px;
     height: 40px;
     margin-top: 8px;
     position: absolute;
     bottom: 10px;
     left: 0px;
+} */
+
+/* Second try re:portfolio images */
+
+.portPicture {
+    width: 275px;
+    float: left;
+    margin: 15px;
+    position: relative;
+}
+
+.portButton {
+    z-index: 2;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    width: 275px;
+    height: 40px;
+    margin-top: 8px;
+    position: absolute;
+    bottom: 30%;
 }
 
 /* Footer */
